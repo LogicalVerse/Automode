@@ -1,0 +1,2810 @@
+[
+  {
+    "step": 0,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 1,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 2,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 3,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 4,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 5,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 6,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 7,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 8,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 9,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 10,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 11,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 12,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 13,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 14,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 15,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 16,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 17,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 18,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 19,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 20,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 21,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 22,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 23,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 24,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 25,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 26,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 27,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 28,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 29,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 30,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 31,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 32,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 33,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 34,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 35,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 36,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 37,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 38,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 39,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 40,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 41,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 42,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 43,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 44,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 45,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 46,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 47,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 48,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 49,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 50,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 51,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 52,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 53,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 54,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 55,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 56,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 57,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 58,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 59,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 60,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 61,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 62,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 63,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 64,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 65,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 66,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 67,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 68,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 69,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 70,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 71,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 72,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 73,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 74,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 75,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 76,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 77,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 78,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 79,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 80,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 81,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 82,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 83,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 84,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 85,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 86,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 87,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 88,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 89,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 90,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 91,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 92,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 93,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 94,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 95,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 96,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 97,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 98,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 99,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 100,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 101,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 102,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 103,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 104,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 105,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 106,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 107,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 108,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 109,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 110,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 111,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 112,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 113,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 114,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 115,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 116,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 117,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 118,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 119,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 120,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 121,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 122,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 123,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 124,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 125,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 126,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 127,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 128,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 129,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 130,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 131,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 132,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 133,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 134,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 135,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 136,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 137,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 138,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 139,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 140,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 141,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 142,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 143,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 144,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 145,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 146,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 147,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 148,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 149,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 150,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 151,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 152,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 153,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 154,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 155,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 156,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 157,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 158,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 159,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 160,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 161,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 162,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 163,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 164,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 165,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 166,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 167,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 168,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 169,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 170,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 171,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 172,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 173,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 174,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 175,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 176,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 177,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 178,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 179,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 180,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 181,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 182,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 183,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 184,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 185,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 186,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 187,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 188,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 189,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 190,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 191,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 192,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 193,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 194,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 195,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 196,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 197,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 198,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 199,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 200,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 201,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 202,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 203,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 204,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 205,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 206,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 207,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 208,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 209,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 210,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 211,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 212,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 213,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 214,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 215,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 216,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 217,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 218,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 219,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 220,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 221,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 222,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 223,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 224,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 225,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 226,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 227,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 228,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 229,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 230,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 231,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 232,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 233,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 234,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 235,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 236,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 237,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 238,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 239,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 240,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 241,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 242,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 243,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 244,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 245,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 246,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 247,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 248,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 249,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 250,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 251,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 252,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 253,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 254,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 255,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 256,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 257,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 258,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 259,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 260,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 261,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 262,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 263,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 264,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 265,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 266,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 267,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 268,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 269,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 270,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 271,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 272,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 273,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 274,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 275,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 276,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 277,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 278,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 279,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 280,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 281,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 282,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 283,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 284,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 285,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 286,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 287,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 288,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 289,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 290,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 291,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 292,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 293,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 294,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 295,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 296,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 297,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 298,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 299,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 300,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 301,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 302,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 303,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 304,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 305,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 306,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 307,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 308,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 309,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 310,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 311,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 312,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 313,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 314,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 315,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 316,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 317,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 318,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 319,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 320,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 321,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 322,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 323,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 324,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 325,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 326,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 327,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 328,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 329,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 330,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 331,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 332,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 333,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 334,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 335,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 336,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 337,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 338,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 339,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 340,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 341,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 342,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 343,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 344,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 345,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 346,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 347,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 348,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 349,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 350,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 351,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 352,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 353,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 354,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 355,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 356,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 357,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 358,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 359,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 360,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 361,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 362,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 363,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 364,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 365,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 366,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 367,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 368,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 369,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 370,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 371,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 372,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 373,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 374,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 375,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 376,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 377,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 378,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 379,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 380,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 381,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 382,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 383,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 384,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 385,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 386,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 387,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 388,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 389,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 390,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 391,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 392,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 393,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 394,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 395,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 396,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 397,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 398,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 399,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 400,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 401,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 402,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 403,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 404,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 405,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 406,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 407,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 408,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 409,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 410,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 411,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 412,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 413,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 414,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 415,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 416,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 417,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 418,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 419,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 420,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 421,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 422,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 423,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 424,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 425,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 426,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 427,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 428,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 429,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 430,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 431,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 432,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 433,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 434,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 435,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 436,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 437,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 438,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 439,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 440,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 441,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 442,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 443,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 444,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 445,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 446,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 447,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 448,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 449,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 450,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 451,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 452,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 453,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 454,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 455,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 456,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 457,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 458,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 459,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 460,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 461,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 462,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 463,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 464,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 465,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 466,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  },
+  {
+    "step": 467,
+    "trainable_params": 3692236800,
+    "total_params": 9241705984,
+    "trainable_pct": 0.399518963965344
+  }
+]
