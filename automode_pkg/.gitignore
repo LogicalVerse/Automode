@@ -1,0 +1,7 @@
+.DS_Store
+.pytest_cache/
+*.pyc
+__pycache__/
+*.egg-info/
+notebooks/runs/
+.ipynb_checkpoints/
